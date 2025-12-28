@@ -15,11 +15,13 @@ public class Me {
     public final String[] frameworks = 
         {"Spring Boot 4", "Spring MVC/Web/Data/Security", "Hibernate ORM"};
     public final String[] tools = 
-        {"Git", "Docker", "Maven", "Gradle", "IntelliJ IDEA", "Bash"};
+        {"Git + GitHub", "Docker + Docker Compose", "Maven", "Gradle", "IntelliJ IDEA", "Bash", "Postman"};
     public final String[] infra = 
-        {"PostgreSQL", "Kafka", "Redis", "GitHub Actions"};
+        {"PostgreSQL", "MongoDB", "Kafka", "Redis", "GitHub Actions"};
     public final String[] practices = 
-        {"REST API", "gRPC", "OpenAPI/Swagger", "JUnit", "Mockito", "JaCoCo", "CI/CD"};
+        {"REST API", "gRPC", "OpenAPI/Swagger", "CI/CD"};
+    public final String[] testing =
+        {"JUnit", "Mockito", "JaCoCo"}
     
     public boolean lovesCleanCode = true;
     public String englishLevel = "Advanced (C1)";
