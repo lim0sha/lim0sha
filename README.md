@@ -13,7 +13,7 @@ public class Me {
     public final String[] languages = 
         {"Java", "SQL", "Python", "C#", "C/C++"};
     public final String[] frameworks = 
-        {"Spring Boot 4", "Spring MVC/Web/Data/Security", "Hibernate ORM"};
+        {"Spring Boot 4", "Spring MVC/Web/Data/Security", "Hibernate ORM", ".NET", "ASP.NET Core"};
     public final String[] tools = 
         {"Git + GitHub", "Docker + Docker Compose", "Maven", "Gradle", "IntelliJ IDEA", "Bash", "Postman"};
     public final String[] infra = 
